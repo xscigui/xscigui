@@ -34,7 +34,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
-![Pacman Animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-pacman.svg)
+![Pacman Animation](https://raw.githubusercontent.com/xscigui/xscigui/output/github-contribution-grid-pacman.svg)
 
 
 <!--
