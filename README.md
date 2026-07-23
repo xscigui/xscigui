@@ -41,6 +41,19 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
+<h3 align="center">🎮 Pra fechar o squad, bora jogar algo?! </h3>
+
+<p align="center">
+  <!-- Steam (Link Direto) -->
+  <a href="https://steamcommunity.com/id/GuiRecon" target="_blank" title="Steam: GuiRecon"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+  <!-- Ubisoft -->
+  <a href="https://ubisoftconnect.com" target="_blank" title="Ubisoft ID: SEU_NICK_UBI"><img src="https://img.shields.io/badge/Ubisoft-0070FF?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft" /></a>
+  <!-- Epic Games -->
+  <a href="https://store.epicgames.com" target="_blank" title="Epic Games ID: SEU_NICK_EPIC"><img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" /></a>
+  <!-- Battle.net -->
+  <a href="https://battle.net" target="_blank" title="BattleTag: SEUNICK#1234"><img src="https://img.shields.io/badge/Battle.net-00AEFF?style=for-the-badge&logo=battledotnet&logoColor=white" alt="Battle.net" /></a>
+</p>
+
 ![Pacman Animation](https://raw.githubusercontent.com/xscigui/xscigui/output/github-contribution-grid-pacman.svg)
 
 
